@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-12T22:33:02 IST" name="Default suite" finished-at="2022-12-12T22:33:42 IST" duration-ms="40399">
+    <groups>
+    </groups>
+    <test started-at="2022-12-12T22:33:02 IST" name="Default test" finished-at="2022-12-12T22:33:42 IST" duration-ms="40399">
+      <class name="loginTestCase.Login2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:loginTestCase.Login2@418e7838]" started-at="2022-12-12T22:33:02 IST" name="beforeTest" finished-at="2022-12-12T22:33:05 IST" duration-ms="3210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="login_Scenario(java.lang.String,java.lang.String)[pri:0, instance:loginTestCase.Login2@418e7838]" started-at="2022-12-12T22:33:05 IST" name="login_Scenario" data-provider="loginData" finished-at="2022-12-12T22:33:26 IST" duration-ms="21136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Adminnnn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aadmin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Scenario -->
+        <test-method signature="login_Scenario(java.lang.String,java.lang.String)[pri:0, instance:loginTestCase.Login2@418e7838]" started-at="2022-12-12T22:33:26 IST" name="login_Scenario" data-provider="loginData" finished-at="2022-12-12T22:33:32 IST" duration-ms="5298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin124]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Scenario -->
+        <test-method signature="login_Scenario(java.lang.String,java.lang.String)[pri:0, instance:loginTestCase.Login2@418e7838]" started-at="2022-12-12T22:33:32 IST" name="login_Scenario" data-provider="loginData" finished-at="2022-12-12T22:33:37 IST" duration-ms="5340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdmin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Scenario -->
+        <test-method signature="login_Scenario(java.lang.String,java.lang.String)[pri:0, instance:loginTestCase.Login2@418e7838]" started-at="2022-12-12T22:33:37 IST" name="login_Scenario" data-provider="loginData" finished-at="2022-12-12T22:33:42 IST" duration-ms="4923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Scenario -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:loginTestCase.Login2@418e7838]" started-at="2022-12-12T22:33:42 IST" name="afterTest" finished-at="2022-12-12T22:33:42 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- loginTestCase.Login2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
